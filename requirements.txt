@@ -1,6 +1,6 @@
 # requirements.txt
-import pandas as pd
 snowflake-connector-python
 snowflake-snowpark-python
+import pandas as pd
 streamlit==1.31.1
 requests
